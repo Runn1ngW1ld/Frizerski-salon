@@ -1,0 +1,26 @@
+#container {
+  margin-top: 100px;
+}
+
+
+.jumbotron {
+  padding: 20px;
+
+}
+
+.img {
+  position: relative;
+  width: 220px;
+  height: 220px;
+  left: 475px;
+
+}
+
+.ul {
+  position: relative;
+  left: 275px;
+}
+
+footer {
+  background-color: #e9ecee;
+}
